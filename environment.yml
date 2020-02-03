@@ -3,6 +3,8 @@ dependencies:
   - matplotlib
   - numpy
   - sympy
+  - latex
+  - tex
   - pip
   - pytest
   - ipywidgets >= 6.0.0
